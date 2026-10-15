@@ -1,0 +1,179 @@
+1
+00:00:00,000 --> 00:00:04,200
+Welcome to Instinct, a simple creator studio for planning
+
+2
+00:00:04,200 --> 00:00:08,401
+better Instagram content. In this short tour, you will
+
+3
+00:00:08,401 --> 00:00:12,601
+learn how to open it, set up your profile,
+
+4
+00:00:12,601 --> 00:00:16,802
+plan reels, draft thoughtful comments, and track your results.
+
+5
+00:00:16,802 --> 00:00:20,993
+The easiest way to use Instinct is online. Open
+
+6
+00:00:20,993 --> 00:00:25,185
+preetending2008 dot github dot io slash instinct hyphen creator
+
+7
+00:00:25,185 --> 00:00:29,376
+hyphen studio. It opens in your browser, and you
+
+8
+00:00:29,376 --> 00:00:31,239
+can start right away.
+
+9
+00:00:31,239 --> 00:00:35,437
+To download your own copy, open the public Instinct
+
+10
+00:00:35,437 --> 00:00:39,634
+repository on GitHub. Choose the green Code button, then
+
+11
+00:00:39,634 --> 00:00:43,832
+Download ZIP. Save the zip file to your computer.
+
+12
+00:00:43,832 --> 00:00:47,918
+In your downloads folder, right click the zip and
+
+13
+00:00:47,918 --> 00:00:52,004
+choose Extract All. Open the extracted folder, then double
+
+14
+00:00:52,004 --> 00:00:56,090
+click index dot html. It opens in your browser.
+
+15
+00:00:56,090 --> 00:01:00,177
+Online is simpler, and both versions save data separately
+
+16
+00:01:00,177 --> 00:01:01,539
+in that browser.
+
+17
+00:01:01,539 --> 00:01:06,045
+First, open My Creator Profile. Add your niche, who
+
+18
+00:01:06,045 --> 00:01:10,551
+you make content for, your usual voice, and two
+
+19
+00:01:10,551 --> 00:01:15,058
+to six content pillars. Save. This context helps make
+
+20
+00:01:15,058 --> 00:01:17,561
+the reel prompts more relevant.
+
+21
+00:01:17,561 --> 00:01:21,839
+Next, open Trend Radar. Use Google Trends, Instagram Explore,
+
+22
+00:01:21,839 --> 00:01:26,116
+or another source to research a topic yourself. Save
+
+23
+00:01:26,116 --> 00:01:30,393
+the source link, choose a content pillar, and note
+
+24
+00:01:30,393 --> 00:01:34,671
+what you observed and why your audience may care.
+
+25
+00:01:34,671 --> 00:01:37,522
+Instinct does not fetch live trends.
+
+26
+00:01:37,522 --> 00:01:42,058
+Open Reel Studio and choose your saved signal. Review
+
+27
+00:01:42,058 --> 00:01:46,594
+the suggested hooks, angles, simple structures, and calls to
+
+28
+00:01:46,594 --> 00:01:51,130
+action. These are template-based starting points, not AI predictions.
+
+29
+00:01:51,130 --> 00:01:55,666
+Add your own experience, then save ideas you want
+
+30
+00:01:55,666 --> 00:01:56,674
+to make.
+
+31
+00:01:56,674 --> 00:02:01,549
+In your planner, move ideas through Idea, Scripting, Ready,
+
+32
+00:02:01,549 --> 00:02:06,424
+Scheduled, and Published. A date is only a reminder.
+
+33
+00:02:06,424 --> 00:02:11,299
+For comments, describe one specific detail, choose your intent,
+
+34
+00:02:11,299 --> 00:02:16,174
+then edit and copy a draft. Nothing is posted
+
+35
+00:02:16,174 --> 00:02:16,716
+automatically.
+
+36
+00:02:16,716 --> 00:02:21,414
+After publishing, enter the numbers from Instagram Insights under
+
+37
+00:02:21,414 --> 00:02:26,113
+Analytics. Instinct calculates likes, comments, saves, and shares divided
+
+38
+00:02:26,113 --> 00:02:30,811
+by reach. This is a simple calculation on your
+
+39
+00:02:30,811 --> 00:02:35,510
+own data, not Instagram's algorithm or a promise of
+
+40
+00:02:35,510 --> 00:02:36,032
+reach.
+
+41
+00:02:36,032 --> 00:02:40,322
+Your workspace stays in this browser. Download a backup
+
+42
+00:02:40,322 --> 00:02:44,611
+from your profile before changing devices. To share Instinct,
+
+43
+00:02:44,611 --> 00:02:48,901
+send the online app link, not your backup file.
+
+44
+00:02:48,901 --> 00:02:53,191
+Each person gets a separate workspace. Have fun creating,
+
+45
+00:02:53,191 --> 00:02:55,574
+and keep it your own.

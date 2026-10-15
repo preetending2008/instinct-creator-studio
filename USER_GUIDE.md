@@ -25,6 +25,8 @@ It cannot:
 
 ## Getting started
 
+Prefer a video walkthrough? Watch the [Getting started tutorial](./getting-started.mp4) or [download its captions](./getting-started.srt).
+
 1. Open `index.html` in a modern browser.
 2. Select **My creator profile** (the profile button in the top bar or sidebar).
 3. Add your niche, describe your audience, select a voice, and add 2–6 comma-separated content pillars.
@@ -140,6 +142,8 @@ Import replaces the destination browser's current workspace. Export the destinat
 ### Share the app with someone
 
 Do not send your backup if you only want the other person to use the app. Send the hosted app URL instead. Opening a local file, or an address starting with `127.0.0.1`, only works on your device. A public link requires publishing the static app files to web hosting. Do not publish a backup or any credentials. Each user should keep their own workspace and browser profile.
+
+For a visual walkthrough of downloading and using Instinct, see the [Getting started tutorial](./getting-started.mp4). Captions are available as a separate [SRT file](./getting-started.srt).
 
 #### Easiest publishing route: Netlify Drop
 

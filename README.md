@@ -4,6 +4,10 @@ Instinct is a lightweight, approval-first Instagram planning dashboard that runs
 
 For setup and detailed instructions for each feature, read the [User Guide](./USER_GUIDE.md) or open **Help & manual** in the dashboard.
 
+## Video walkthrough
+
+Watch the [Getting started tutorial](./getting-started.mp4) to see how to download Instinct from GitHub, open it, set up a creator profile, research a trend, plan a reel, and enter your results. [Download the captions](./getting-started.srt) if you need them separately.
+
 To publish a shareable copy, follow the **Backups, restore, and sharing** section of `USER_GUIDE.md`. The easiest manual route is to upload the static app folder to a hosting account you control. Never publish a workspace backup.
 
 ## What it does
